@@ -1,4 +1,3 @@
-import requests
 import hvac
 import dotenv
 import os
